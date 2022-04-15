@@ -1,0 +1,8 @@
+button {
+    border: none;
+    background-color: gold;
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+  }
